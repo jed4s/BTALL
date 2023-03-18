@@ -1,7 +1,7 @@
 # BTALL
-historyOfSalvationTexts:BTALL
+history Of Salvation Texts : BTALL
 
-BibleTexts: ckhgeoe, Chinese/Korean/Hebrew/Greek/English/Origin/English
+Bible Texts : ckhgeoe, Chinese/Korean/Hebrew/Greek/English/Origin/English
 
-BibleTextsHtml: ckhgeoe_HTML
+Bible Texts Html : ckhgeoe_HTML
 
