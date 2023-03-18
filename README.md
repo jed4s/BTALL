@@ -1,5 +1,5 @@
 # BTALL
-history Of Salvation Texts : BTALL
+history Of Salvation Texts : BT_ALL
 
 Bible Texts : ckhgeoe, Chinese/Korean/Hebrew/Greek/English/Origin/English
 
