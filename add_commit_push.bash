@@ -16,7 +16,7 @@ git add  -A * && echo add_succese
 
 git commit -m $INFO && echo commit_succese
 
-git push -u origin master && echo git_push_succese.
+git push && echo git_push_succese.
 
 echo;echo
 
