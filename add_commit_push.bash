@@ -2,7 +2,7 @@
 
 clear;
 
-
+cp ~/grace_20190205/historyOfSalvation/BT_ALL ./
 
 INFO=$(date +%Y%m%d)
 
