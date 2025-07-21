@@ -2,7 +2,7 @@
 
 History Of Salvation Texts : BT_ALL
 
-Bible Texts : ckeh.txt, Chinese/Korean/English/Hebrew
+Bible Texts : ckeh.txt, Chinese/Korean/English/Hebrew, Hebrew without vowels.
 
 Bible Texts : ckhgeoe.txt.zip, Chinese/Korean/Hebrew/Greek/English/Origin/English
 
